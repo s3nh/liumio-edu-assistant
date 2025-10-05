@@ -1,0 +1,8 @@
+torch
+torchvision
+peft 
+accelerate 
+huggingface_hub
+datasets 
+transformers 
+https://github.com/mjun0812/flash-attention-prebuild-wheels/releases/download/v0.3.18/flash_attn-2.7.4+cu128torch2.8-cp310-cp310-linux_x86_64.whl
